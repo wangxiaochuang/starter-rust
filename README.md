@@ -95,7 +95,7 @@ cargo nextest run
 - rust-analyzer: Rust 语言支持
 - Rust Test Explorer: Rust 测试概览
 
-## 项目构建
+## 项目构建与测试
 
 ```bash
 # 构建release版本
